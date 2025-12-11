@@ -6,3 +6,6 @@ redis
 # For dependency_injector_app.py (Modern DI/IoC)
 # The dependency-injector library is one of the best for Python DI
 dependency-injector
+
+# for the integrity_validator.py (Data Integrity and Validation)
+cryptography
