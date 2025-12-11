@@ -1,0 +1,8 @@
+# requirements.txt
+
+# For distributed_lock_manager.py (Concurrency/External State Management)
+redis
+
+# For dependency_injector_app.py (Modern DI/IoC)
+# The dependency-injector library is one of the best for Python DI
+dependency-injector
